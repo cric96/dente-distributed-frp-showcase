@@ -41,7 +41,7 @@ multiJvm {
 dependencies {
     implementation("org.scala-lang:scala3-library_3:3.3.0")
     implementation("nz.sodium:sodium:1.2.0")
-    implementation("io.github.cric96:distributed-frp_3:0.1.4")
+    implementation("io.github.cric96:distributed-frp_3:0.1.7")
 
     implementation(kotlin("stdlib-jdk8"))
     implementation(libs.bundles.alchemist.protelis)
