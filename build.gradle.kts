@@ -39,7 +39,7 @@ multiJvm {
 }
 
 dependencies {
-    implementation("org.scala-lang:scala3-library_3:3.6.1")
+    implementation("org.scala-lang:scala3-library_3:3.6.2")
     implementation("nz.sodium:sodium:1.2.0")
     implementation("io.github.cric96:distributed-frp_3:0.1.7")
 
